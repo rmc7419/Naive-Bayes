@@ -22,5 +22,7 @@ o	Visualizing the test set result.
 
 Data Used :
 1)	Salary dataset:- To Prepare a classification model using Naive Bayes for salary dataset.
+
 Programming:- Python
+
 The Codes regarding  Naive Bayes with one business problem salary dataset is present in this Repository in detail.
